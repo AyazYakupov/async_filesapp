@@ -2,15 +2,15 @@
 
 Async application for uploading and downloading files with using sanic framework.
 
-##Installation
+## Installation
 
 - Python 3.7 is required
 
-###Clone
+### Clone
 
 - Clone this repo to your local machine using `https://github.com/AyazYakupov/async_filesapp`
 
-###Setup
+### Setup
 
 - Install virtual environment 
 ```python3 -m venv venv```
@@ -18,14 +18,14 @@ Async application for uploading and downloading files with using sanic framework
 
 - Install required modules `pip install -r requirements.txt`
 
-##Get Started
+## Get Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes
-###Run application
+### Run application
 ```shell script
 python3 main.py
 ```
 
-##Running the tests
+## Running the tests
 For testing application project uses Pytest framework.
 ```shell script
 pytest -q tests.py
